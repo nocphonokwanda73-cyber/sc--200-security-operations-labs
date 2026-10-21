@@ -6,7 +6,7 @@ All labs were completed in a training environment with a fictional company. Tena
 
 ## Labs
 
-- [Lab 1: Explore Microsoft Defender XDR](lab01-path-1-xdr.md)
+- [Lab 1: Explore Microsoft Defender XDR](lab-01-path-1-xdr.md)
 - [Lab 2: Explore Microsoft Purview Audit Logs](lab02-purview-audit-logs.md)
 
 ## Skills shown
