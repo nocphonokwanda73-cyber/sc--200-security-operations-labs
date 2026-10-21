@@ -28,7 +28,7 @@ The Audit page showed an error about recording status, so I used the workaround 
 
 I ran `Get-AdminAuditLogConfig | FL UnifiedAuditLogIngestionEnabled`. The result was True, which confirms audit logging is enabled.
 
-![Audit ingestion enabled](lab3-audit-ingestion-true.png)
+![Audit ingestion enabled](lab3-purview-audit-search.png)
 
 I then ended the session with `Disconnect-ExchangeOnline`.
 
