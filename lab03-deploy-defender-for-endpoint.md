@@ -28,7 +28,7 @@ I generated a deployment tool in the portal and ran it on the lab machine, WIN1.
 
 I created a role called Tier 1 Support with read and manage permissions for security operations, and assigned it to a user group. Roles make sure that each person only gets the access their job needs.
 
-![Tier 1 Support role created](lab4-tier1-support-role-created.png)
+![Tier 1 Support role created](lab4-tier1-support-review.png)
 
 ### 4. Created a device group
 
