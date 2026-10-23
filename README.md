@@ -9,7 +9,7 @@ All labs were completed in a training environment with a fictional company. Tena
 - [Lab 1: Explore Microsoft Defender XDR](lab-01-path-1-xdr.md)
 - [Lab 2: Explore Microsoft Purview Audit Logs](lab02-purview-audit-logs.md)
 -  [Lab 3: Deploy Microsoft Defender for Endpoint](lab03-deploy-defender-for-endpoint.md)
--  [Lab 4 (Exercise 2): Mitigate Attacks with Microsoft Defender for Endpoint](lab04b-mitigate-attacks-defender-endpoint.md)
+-  [Lab 4: Mitigate Attacks with Microsoft Defender for Endpoint](lab04b-mitigate-attacks-defender-endpoint.md)
 
 ## Skills shown
 
