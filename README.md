@@ -10,7 +10,7 @@ All labs were completed in a training environment with a fictional company. Tena
 - [Lab 2: Explore Microsoft Purview Audit Logs](lab02-purview-audit-logs.md)
 -  [Lab 3: Deploy Microsoft Defender for Endpoint](lab03-deploy-defender-for-endpoint.md)
 -  [Lab 4: Mitigate Attacks with Microsoft Defender for Endpoint](lab04b-mitigate-attacks-defender-endpoint.md)
--[Lab 5: Create Queries for Microsoft Sentinel Using KQL](lab05-kql-queries.md)
+- [Lab 5: Create Queries for Microsoft Sentinel Using KQL](lab05-kql-queries.md)
 ## Skills shown
 
 - Applying Standard and Strict preset email protection policies
